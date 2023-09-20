@@ -52,4 +52,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-sajwan&show_icons=true&locale=en&layout=compact" alt="ayush-sajwan" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayush-sajwan&show_icons=true&locale=en" alt="ayush-sajwan" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-sajwan&show_icons=true&locale=en" alt="ayush-sajwan" /></p>
